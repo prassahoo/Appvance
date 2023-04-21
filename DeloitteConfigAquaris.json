@@ -2,11 +2,11 @@
   {
     "configName": "DeloitteConfig",
     "app": "",
-    "appPackage": "com.insights.deloitte",
+    "appPackage": "com.saucelabs.mydemoapp.rn",
     "proxyURL": "",
     "bundleId": "",
     "source": "package",
-    "appActivity": "crc64f3b2d0b2f2a66173.SplashScreen",
+    "appActivity": "com.saucelabs.mydemoapp.rn.MainActivity",
     "deviceMode": false,
     "service": "On-Premises",
     "serverURL": "http://localhost:4723/wd/hub",
