@@ -1,1 +1,21 @@
-[{"configName":"DeloitteConfig","app":"","appPackage":"com.insights.deloitte","proxyURL":"","bundleId":"","source":"package","appActivity":"crc64f3b2d0b2f2a66173.SplashScreen","deviceMode":true,"service":"On-Premises","serverURL":"http://localhost:4723/wd/hub","platformName":"Android","validDomains":"","capabilities":{"platformVersion":"31","udid":"UI031080","deviceName":"device","noReset":"true"}}]
+[
+  {
+    "configName": "DeloitteConfig",
+    "app": "",
+    "appPackage": "com.insights.deloitte",
+    "proxyURL": "",
+    "bundleId": "",
+    "source": "package",
+    "appActivity": "crc64f3b2d0b2f2a66173.SplashScreen",
+    "deviceMode": false,
+    "service": "On-Premises",
+    "serverURL": "http://localhost:4723/wd/hub",
+    "platformName": "Android",
+    "validDomains": "",
+    "capabilities": {
+      "platformVersion": "Android 11",
+      "udid": "emulator-5554",
+      "deviceName": "sdk_gphone_x86"
+    }
+  }
+]
