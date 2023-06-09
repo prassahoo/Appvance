@@ -33,7 +33,7 @@
     <resource name="script2.mds" type="mds" path="REPOSITORY/APPVANCE/script2.mds"/>
   </resources>
   <testnodes>
-    <node name="localhost" location="http://localhost:8080/TMServer/ws/TestNode" password="Reset@1234567890"/>
+    <node name="localhost" location="http://localhost:8080/TMServer/ws/TestNode"/>
   </testnodes>
   <bundles>
     <bundle name="hibernate" version="3.0"/>
