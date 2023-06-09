@@ -138,8 +138,7 @@
     </controller>
     <testcase name="Testcase1" importance="normal">
       <test>
-        <run name="Untitled1" langtype="mds" instance="execution1" resource="script1.mds" method="mds"/>
-        <run name="Untitled2" langtype="mds" instance="execution1" resource="script2.mds" method="mds"/>
+        <run name="Untitled1" langtype="mds" resource="script1.mds" method="mds"/>
       </test>
     </testcase>
     <assertsuite xmlns="www.pushtotest.com/tm5" name="Optional"/>
