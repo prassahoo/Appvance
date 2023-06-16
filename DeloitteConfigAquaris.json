@@ -17,5 +17,19 @@
       "udid": "emulator-5554",
       "deviceName": "sdk_gphone_x86"
     }
+  },
+  {
+    "configName": "On-Premises_Android_emulatortest",
+    "app": "",
+    "appPackage": "com.android.chrome",
+    "proxyURL": "",
+    "bundleId": "",
+    "source": "package",
+    "appActivity": "org.chromium.chrome.browser.document.ChromeLauncherActivity - Chromeorg.chromium.chrome.browser.document.ChromeLauncherActivity",
+    "deviceMode": false,
+    "service": "On-Premises",
+    "serverURL": "http://localhost:4723/wd/hub",
+    "platformName": "Android",
+    "validDomains": ""
   }
 ]
