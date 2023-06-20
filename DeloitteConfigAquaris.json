@@ -25,7 +25,7 @@
     "proxyURL": "",
     "bundleId": "",
     "source": "package",
-    "appActivity": "org.chromium.chrome.browser.document.ChromeLauncherActivity - Chromeorg.chromium.chrome.browser.document.ChromeLauncherActivity",
+    "appActivity": "org.chromium.chrome.browser.document.ChromeLauncherActivity",
     "deviceMode": false,
     "service": "On-Premises",
     "serverURL": "http://localhost:4723/wd/hub",
