@@ -30,6 +30,11 @@
     "service": "On-Premises",
     "serverURL": "http://localhost:4723/wd/hub",
     "platformName": "Android",
-    "validDomains": ""
+    "validDomains": "",
+    "capabilities": {
+      "platformVersion": "Android 11",
+      "udid": "emulator-5554",
+      "deviceName": "sdk_gphone_x86"
+    }
   }
 ]
